@@ -91,9 +91,6 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 5.  S. V. Sheshappanavar and C. Kambhamettu, "A Novel Local Geometry Capture in Pointnet++ for 3D Classification," 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020, pp. 1059-1068, doi: 10.1109/CVPRW50498.2020.00139.
 
 
-
-Key Components in IEEE Format:
-
 **Test files:**
 Since GitHub's free version doesn't allow files above 25MB, use this link to download the sample files that were used to implement this program: https://drive.google.com/drive/folders/18X2kSOcFMKkZLnzxCQbbNFFOxBOyrdFk?usp=sharing
 
