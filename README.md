@@ -6,7 +6,14 @@ Coding project for Honeywell's Hackathon that converts point clouds to 3d meshes
 - Priyanshu Tiwari - Project Lead & Algorithm Developer - 3rd Year AI/ML student at Sir M Visvesvaraya Institute of Technology
 - N Ram Srujan Raj - 3D Parsing Specialist & Core Engineer - 1st Year CSE student at Sir M Visvesvaraya Institute of Technology
 - Rishabh Raj - UI/UX Designer - 2nd Year ISE student at Sir M Visvesvaraya Institute of Technology
-- Aditya Kumar - System Integrator - 2nd year ISE student at RV Institute of Technology and Management 
+- Aditya Kumar - System Integrator - 2nd year ISE student at RV Institute of Technology and Management
+
+## Contact details
+
+- Srujan - ramsrujanraj@gmail.com / 9342898655
+- Priyanshu - techarena955@gmail.com / 8299624065
+- Rishabh - rajrishabh2006@gmail.com / 8729743850 
+- Aditya - aditya.kumar25025@gmail.com / 8320516883
 
 ## Mentor
 - Dr S Ambareesh (Professor in AI/ML at Sir M Visvesvaraya Institute of Technology)
@@ -103,4 +110,10 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 **Test files:**
 Since GitHub's free version doesn't allow files above 25MB, use this link to download the sample files that were used to implement this program: https://drive.google.com/drive/folders/18X2kSOcFMKkZLnzxCQbbNFFOxBOyrdFk?usp=sharing
 
+**Output files:**
+Here are some of the output files of a few sample files. Please note that some outputs don't have the input file in the test files:
+https://drive.google.com/drive/folders/1rvtjnyr-3o_Xhn8CaMepS_KZ9i7uEOcY?usp=sharing
+
+
 **Cross-Platform Note**: While core functionality works universally, file dialogs/paths auto-adapt to OS conventions.
+
