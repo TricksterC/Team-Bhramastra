@@ -54,8 +54,8 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 - Addition of voxel downsampling and/or advanced noise reduction 
 - Implementation of Deep learning concepts to make a "one-size-fits-all" solution for increased robustness
 
-<<<<<<< main
-**Demo** 
+
+# **Demo** 
 
 # Raw Point Cloud 
 <img width="710" alt="Screenshot 2025-04-04 at 7 13 29 AM" src="https://github.com/user-attachments/assets/ec15775a-d14b-4510-a129-4849432fca6a" />
