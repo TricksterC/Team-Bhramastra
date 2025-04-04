@@ -1,6 +1,15 @@
 # Team-Bhramastra 🚀
 Coding project for Honeywell's Hackathon that converts point clouds to 3d meshes.
 
+## Presented by
+
+- Priyanshu Tiwari - Project Lead & Algorithm Developer - 3rd Year AI/ML student at Sir M Visvesvaraya Institute of Technology
+- N Ram Srujan Raj - 3D Parsing Specialist & Core Engineer - 1st Year CSE student at Sir M Visvesvaraya Institute of Technology
+- Rishabh Raj - UI/UX Designer - 2nd Year ISE student at Sir M Visvesvaraya Institute of Technology
+- Aditya Kumar - System Integrator - 2nd year ISE student at RV Institute of Technology and Management 
+
+## Mentor
+- Dr S Ambareesh (Professor in AI/ML at Sir M Visvesvaraya Institute of Technology)
 
 **Point Cloud to 3D Mesh Converter**  
 A desktop application for 3D point cloud processing with surface reconstruction and multi-format export capabilities.  
@@ -95,13 +104,3 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 Since GitHub's free version doesn't allow files above 25MB, use this link to download the sample files that were used to implement this program: https://drive.google.com/drive/folders/18X2kSOcFMKkZLnzxCQbbNFFOxBOyrdFk?usp=sharing
 
 **Cross-Platform Note**: While core functionality works universally, file dialogs/paths auto-adapt to OS conventions.
-
-## Presented by
-
-- Priyanshu Tiwari - Project Lead & Algorithm Developer - 3rd Year AI/ML student at Sir M Visvesvaraya Institute of Technology
-- N Ram Srujan Raj - 3D Parsing Specialist & Core Engineer - 1st Year CSE student at Sir M Visvesvaraya Institute of Technology
-- Rishabh Raj - UI/UX Designer - 2nd Year ISE student at Sir M Visvesvaraya Institute of Technology
-- Aditya Kumar - System Integrator - 2nd year ISE student at RV Institute of Technology and Management 
-
-## Mentor
-- Dr S Ambareesh (Professor in AI/ML at Sir M Visvesvaraya Institute of Technology)
