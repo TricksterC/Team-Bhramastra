@@ -10,7 +10,7 @@ Coding project for Honeywell's Hackathon that converts point clouds to 3d meshes
 
 ## Mentor
 - Dr S Ambareesh (Professor in AI/ML at Sir M Visvesvaraya Institute of Technology)
-
+---
 **Point Cloud to 3D Mesh Converter**  
 A desktop application for 3D point cloud processing with surface reconstruction and multi-format export capabilities.  
 
