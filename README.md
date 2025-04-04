@@ -54,6 +54,33 @@ A desktop application for 3D point cloud processing with surface reconstruction 
 - Addition of voxel downsampling and/or advanced noise reduction 
 - Implementation of Deep learning concepts to make a "one-size-fits-all" solution for increased robustness
 
+<<<<<<< main
+**Demo** 
+
+# Raw Point Cloud 
+<img width="710" alt="Screenshot 2025-04-04 at 7 13 29 AM" src="https://github.com/user-attachments/assets/ec15775a-d14b-4510-a129-4849432fca6a" />
+
+![rotating_3d_view](https://github.com/user-attachments/assets/0c65f7aa-8669-4e17-b437-c205b32bac88)
+
+# Point cloud with Normals
+<img width="710" alt="Screenshot 2025-04-04 at 7 26 11 AM" src="https://github.com/user-attachments/assets/205f71a8-1431-4a73-924c-82fca015fc61" />
+
+![point cloud normal_view](https://github.com/user-attachments/assets/351f19e7-db45-45cb-a4c1-7c1a23cc620c)
+
+
+# point cloud with poisson Mesh
+<img width="710" alt="Screenshot 2025-04-04 at 7 14 12 AM" src="https://github.com/user-attachments/assets/c22c0655-5f29-4407-9f6a-facf7599bb99" />
+
+![rotating_3d_view](https://github.com/user-attachments/assets/2001add9-ddc3-4822-be69-f0dad543c821)
+
+# Ball pivoting Mesh 
+<img width="710" alt="Screenshot 2025-04-04 at 7 25 36 AM" src="https://github.com/user-attachments/assets/42934936-fafb-4f57-93ee-e8804f6f6ba0" />
+
+![Ball Pivoting](https://github.com/user-attachments/assets/91a06958-1474-4c9e-9d72-2a6440bf6d8c)
+
+# compare Meshes
+<img width="1710" alt="Screenshot 2025-04-04 at 7 15 08 AM" src="https://github.com/user-attachments/assets/ceb2d209-6390-4a4b-ba20-2a5ba8ed0d43" />
+=======
 
 
 **Research and References:**
