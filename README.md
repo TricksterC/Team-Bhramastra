@@ -10,10 +10,10 @@ Coding project for Honeywell's Hackathon that converts point clouds to 3d meshes
 
 ## Contact details
 
-- Srujan - ramsrujanraj@gmail.com / 9342898655
-- Priyanshu - techarena955@gmail.com / 8299624065
-- Rishabh - rajrishabh2006@gmail.com / 8729743850 
-- Aditya - aditya.kumar25025@gmail.com / 8320516883
+- Srujan - ramsrujanraj@gmail.com 
+- Priyanshu - techarena955@gmail.com 
+- Rishabh - rajrishabh2006@gmail.com 
+- Aditya - aditya.kumar25025@gmail.com 
 
 ## Mentor
 - Dr S Ambareesh (Professor in AI/ML at Sir M Visvesvaraya Institute of Technology)
